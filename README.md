@@ -1,16 +1,17 @@
-## Hi there 👋
+# Sikou Musa Kaira
 
-<!--
-**Sikou97/Sikou97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Support informatique · Systèmes et réseaux · Cybersécurité défensive**
 
-Here are some ideas to get you started:
+J’apprends à diagnostiquer des problèmes de connectivité et à comprendre le trafic réseau dans un laboratoire VirtualBox. Je recherche une **alternance en Île-de-France** en support informatique ou en administration systèmes et réseaux.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projet pratique — Laboratoire Windows et Kali Linux
+
+J’ai configuré un réseau privé hôte dans VirtualBox pour faire communiquer deux machines virtuelles. J’ai testé la connectivité avec `ping`, vérifié l’effet des règles du pare-feu Windows sur les réponses ICMP et utilisé Wireshark pour observer les échanges réseau.
+
+## Environnement de travail
+
+- **Systèmes** · Windows 11 et Kali Linux
+- **Réseaux** · Adressage IPv4, tests de connectivité et analyse de trafic
+- **Outils** · VirtualBox, Wireshark et pare-feu Windows
+
+[Me retrouver sur LinkedIn](https://www.linkedin.com/in/sikou-musa-30939b41a/)
